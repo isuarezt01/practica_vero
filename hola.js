@@ -3,3 +3,7 @@ function hola(mensaje) {
 }
 hola("Hola bb")
 
+function adios(mensaje) {
+    console.log(mensaje);
+}
+adios("adios feo")
